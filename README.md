@@ -1,5 +1,8 @@
-### My first project on go <p><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></p>
+<h3 align="left">
+  My first project on Go
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+</h3>
 
 ---
 
-## I`m hope Amin give me HCoins🙏
+## I hope Amin gives me HCoins 🙏
